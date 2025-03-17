@@ -1,4 +1,4 @@
-# OxiN Marketing Analysis
+# OxiN Marketing and Customer Analysis
 ## Project Background
 OxiN is a global e-commerce company specializing in the sale of popular electronic products through its website. The company has recorded over 87K transactions from 2016-2020, covering sales, marketing expenditures, customer acquisition, and product offerings across 310 products in 10 business lines. This project thoroughly analyzes this data to uncover critical insights that will enhance OxiN’s marketing strategies and provide data-driven recommendations for forecasting future marketing investments (to be addressed in Part 2).
 
