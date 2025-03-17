@@ -13,9 +13,10 @@ Insights and recommendations are provided on the following key areas and departm
 ## Executive Summary
 Since its inception in 2016, OxiN has experienced substantial revenue growth, with a cumulative increase of 380%. This growth has been largely driven by strategic marketing investments. A significant year-over-year (YOY) increase in key performance indicators (KPIs), including revenue (135%) and order volume (157%), was observed in 2017. However, from 2018 onwards, revenue has stabilized, averaging $7.6M annually, with periods of decline. This report explores the key factors contributing to these trends and highlights opportunities for further optimization.
 
-The SQL queries used to clean and prepare the data for this analysis can be found [HERE]().
-An interactive Tableau dashboard used to report and explore sales trends can be found [HERE]().
+- The SQL queries used for this analysis can be found [HERE](https://github.com/Lekan-E/marketing-analysis/blob/54d9e338dc5631e115685160842c5b906d2f61e4/marketing_exploration.sql).
+- An interactive Tableau dashboard used to report and explore sales trends can be found [HERE](https://public.tableau.com/app/profile/lekanelegbede/viz/OnlineSalesandMarketing_17393277783220/ExecutiveSummary?publish=yes).
 
+![alt text](https://github.com/Lekan-E/marketing-analysis/blob/6be13efd12caf30094b992ce6c345a5a570bd340/Data%20and%20Images/Summary%20Dashboard.png)
 
 ## Insights Deep-Dive
 ### Sales Trends and Growth Rates
