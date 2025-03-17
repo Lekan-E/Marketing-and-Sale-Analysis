@@ -25,34 +25,34 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 - A revenue decline occurred from late 2018 through April 2019, hitting a low of $408K before partially recovering in subsequent months, following the pattern of marketing spend.
 - YOY revenue growth was strongest in 2017 (135%) but slowed in later years: 46.7% in 2018, followed by a decline of -7.2% in 2020.
 
-![alt text](https://github.com/Lekan-E/Customer-and-Product-Analysis-using-ML/blob/460b92cf5fc9b2e6fdeda62d41bcf329710c012a/Images/Misc/correlation.png)
+![alt text](https://github.com/Lekan-E/marketing-analysis/blob/baa148a9d158a8f3be6455ee2d159d92804a3b3c/Misc/Revenue%20Trend.png)
 
 ### Marketing Investment Performance
 - OxiN spent $953K on marketing, generating $30M in revenue and yielding a 21.3% margin from 2016-2020.
 - In May 2017, a significant marketing spend of $18K (+135.3% vs previous period) drove record-high revenue of $535K. The company has since maintained an average monthly marketing spend of $20K.
 - A strong correlation was observed between marketing spend and revenue generation, reinforcing the effectiveness of OxiN’s marketing strategy.
 
-![alt text](https://github.com/Lekan-E/Customer-and-Product-Analysis-using-ML/blob/460b92cf5fc9b2e6fdeda62d41bcf329710c012a/Images/Misc/correlation.png)
+![alt text](https://github.com/Lekan-E/marketing-analysis/blob/baa148a9d158a8f3be6455ee2d159d92804a3b3c/Misc/Cost%20vs%20Revenue%20Line.png)
 
 #### Top-Performing Marketing Sources:
 - **Source 9** ranked highest in multiple KPIs, generating $3.1M in revenue, $679K in margin, and the highest revenue per client ($706).
 - **Source 6** demonstrated the highest efficiency, generating $3.14M in revenue with the lowest marketing cost ($39K), resulting in the best return on investment (ROI).
 - **Source 3** was the least effective for customer acquisition, ranking 6th in purchase frequency, whereas Source 9 performed best in customer acquisition effectiveness.
 
-![alt text](https://github.com/Lekan-E/Customer-and-Product-Analysis-using-ML/blob/460b92cf5fc9b2e6fdeda62d41bcf329710c012a/Images/Misc/correlation.png)
+![alt text](https://github.com/Lekan-E/marketing-analysis/blob/baa148a9d158a8f3be6455ee2d159d92804a3b3c/Misc/Marketing%20Source.png)
 
 ## Customer Growth and Segmentation:
 - Customer growth surged by 223.5% from 2016-2018, peaking at nearly 11,000. However, there was a -4.3% decline in 2019 before rebounding to over 9,000 in 2020.
 - Repeat purchase rates improved steadily from 11.1% (2016) to 67.4% (2020), reflecting the success of marketing strategies in fostering customer loyalty.
 
-![alt text](https://github.com/Lekan-E/Customer-and-Product-Analysis-using-ML/blob/460b92cf5fc9b2e6fdeda62d41bcf329710c012a/Images/Misc/correlation.png)
+![alt text](https://github.com/Lekan-E/marketing-analysis/blob/baa148a9d158a8f3be6455ee2d159d92804a3b3c/Misc/Customer%20Growth%20Rate.png)
 
 -	While customer growth increased exponentially, the cost per registration declined from $17.2 (2016) to $15.8 (2020), this suggests improved marketing efficiency.
 -	Revenue per client steadily decreased from $596.6 (2016) to $487.4 (2020),  indicating a drop in customer spending over time.
 -	Each customer, on average, is expected to generate $905.04 in revenue over their lifetime (CLV). This value is relatively low, suggesting that customers are not staying long enough or not spending much before leaving.
 -	Additionally, the average customer lifespan is only 5 months. Short retention period meaning customers leave too quickly.
 
-![alt text](https://github.com/Lekan-E/Customer-and-Product-Analysis-using-ML/blob/460b92cf5fc9b2e6fdeda62d41bcf329710c012a/Images/Misc/correlation.png)
+![alt text](https://github.com/Lekan-E/marketing-analysis/blob/baa148a9d158a8f3be6455ee2d159d92804a3b3c/Misc/Customer%20Segments.png)
 
 ## Product & Business Line Performance:
 - The top five revenue-generating products **(091, 301, 046, 113, 009)** each generated over $1M, with an Average Order Value (AOV) of $305 from over 3,000 units sold per product.
@@ -60,7 +60,7 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 - **Business Line 7**, despite having the lowest revenue, had the highest Return on Marketing Investment (ROMI) at 3,634.3%, with a minimal marketing cost of $54.6K.
 - **Business Line 2** had the highest revenue per client ($497), indicating strong high-value customer attraction and engagement.
 
-![alt text](https://github.com/Lekan-E/Customer-and-Product-Analysis-using-ML/blob/460b92cf5fc9b2e6fdeda62d41bcf329710c012a/Images/Misc/correlation.png)
+![alt text](https://github.com/Lekan-E/marketing-analysis/blob/baa148a9d158a8f3be6455ee2d159d92804a3b3c/Misc/Rev%20business%20line.png)
 
 # Recommendations:
 _Sales Trends & Growth Rates_
