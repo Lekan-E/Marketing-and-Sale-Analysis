@@ -68,11 +68,11 @@ _Sales Trends & Growth Rates_
 - **Leverage Seasonal Sales Patterns**: Implement a retargeting strategy before the peak season using email, social media, and paid ads to re-engage past buyers and maximize conversions.
 - **Stabilize Revenue Growth by Improving Customer Retention**: Strengthen retention strategies such as exclusive offers and personalized product recommendations.
 
-_Product & Business Line Performance_
+_Product & Business Line Optimization_
 - **Optimize Top-Performing Business Lines for Higher Profitability**: Business Line 1 is the most profitable. Further improvements can be made by optimizing pricing strategies and enhancing product upselling. Expanding premium offerings in Business Line 2 can further drive high-revenue transactions.
 - **Scale Underutilized High-ROI Products and Business Lines**: Expand inventory and marketing for high AOV products (e.g., products 091, 301, 046, etc.). Increase investment in Business Line 7 due to its high ROMI while maintaining cost efficiency.
 
-_Marketing Investment_
+_Marketing Strategy_
 - **Reallocate Budget Toward High-Performing Marketing Sources**: Increasing investment in Source 6 can drive more efficient growth.
 - **Optimize ROMI by Strengthening Conversion Tactics**: Focus on improving conversion rates through personalized email campaigns and better ad targeting.
 - **Optimize Marketing Spend for Quality Over Quantity**: While Cost per Registration is declining, revenue per client is also decreasing. Shift focus to acquiring high-value customers, even if it increases acquisition costs slightly.
